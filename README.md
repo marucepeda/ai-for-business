@@ -1,6 +1,6 @@
 # ONE AI for Business · Portfolio de aprendizaje
 
-**Maru Cepeda** · Business Operations | Data & Analytics · [[LinkedIn](https://www.linkedin.com/in/marucepeda/)]
+**Maru Cepeda** · Business Operations | Data & Analytics · [LinkedIn](https://www.linkedin.com/in/marucepeda/)
 
 Proyectos prácticos sin código (no-code) que documentan recorrido de **ONE AI for Business** | Oracle Next Education & Alura LATAM: desde agentes y pipelines de IA hasta automatización de procesos de negocio.
 
