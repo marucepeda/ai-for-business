@@ -1,4 +1,4 @@
-# ONE AI for Business | Oracle Next Education · Portfolio de aprendizaje
+# ONE AI for Business · Portfolio de aprendizaje
 
 **Maru Cepeda** · Business Operations | Data & Analytics · [[LinkedIn](https://www.linkedin.com/in/marucepeda/)]
 
@@ -120,9 +120,9 @@ flowchart LR
 
 ### Avance
 
-[&#10003;] G1 · Mentalidad y Estrategia
-[&#10003;] G2 · Datos para los Negocios
-[&#10003;] G3 · Gobernanza, Riesgo y Ética
+- [x] G1 · Mentalidad y Estrategia
+- [x] G2 · Datos para los Negocios
+- [x] G3 · Gobernanza, Riesgo y Ética
 - [ ] T1 · IA para Ventas y Comercial
 - [ ] T2 · IA para Marketing y Contenido
 - [ ] T3 · IA para RR.HH.
