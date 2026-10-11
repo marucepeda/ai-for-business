@@ -131,7 +131,7 @@ flowchart LR
 
 ### Challenge individual
 
-Es el único contenido obligatorio de la fase. Se documentará aquí cuando estén publicadas las bases oficiales: objetivo, criterios de entrega y entregables.
+Se documentará aquí cuando estén publicadas las bases oficiales: objetivo, criterios de entrega y entregables.
 
 ---
 
