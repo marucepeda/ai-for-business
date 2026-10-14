@@ -25,7 +25,7 @@ Proyectos prácticos sin código (no-code) que documentan recorrido de **ONE AI 
 - Distinguir **chatbot, copiloto, agente con reglas de negocio y pipeline multiagente**, y elegir cuál corresponde a cada problema.
 - Dar **contexto propio** a la IA (documentos de la empresa) para reducir respuestas genéricas y alucinaciones.
 - **Automatizar con criterio:** qué se delega a la IA y qué se deriva a una persona.
-- Documentar con honestidad **qué funciona, qué falló y qué falta verificar**.
+- Documentar **qué funciona, qué falló y qué falta verificar**.
 
 ---
 
